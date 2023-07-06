@@ -653,7 +653,7 @@ a {
   display: flex;
   gap: 6px;
   justify-content: center;
-  margin: 38px 0 96px;
+  margin: 38px 0;
 }
 
 .blog .dot {
@@ -715,7 +715,7 @@ a {
 }
 
 .footer .list {
-  margin-top: 48px;
+  margin-top: 28px;
 }
 
 .footer .list a {
